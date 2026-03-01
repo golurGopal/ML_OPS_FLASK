@@ -1,6 +1,7 @@
 name: Run python test
 
-on: push:
+on: 
+    push:
       branches:
         - main
         
